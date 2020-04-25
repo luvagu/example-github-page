@@ -1,1 +1,1 @@
-# luvagu-mpr-hosting
+# Example GitHub page deployment
